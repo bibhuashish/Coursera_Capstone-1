@@ -8,3 +8,6 @@ Coursera IBM Capstone Project for DataScience Course in Python
 
 - The presentation can be read on:
 <a href='https://github.com/pieterjoanUvA/Coursera_Capstone/blob/master/Capston%20Project%20Presentation.pdf'>Presentation</a>
+
+- You can also play with my notebooks on MyBinder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pieterjoanUvA/Coursera_Capstone/master)
